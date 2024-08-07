@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751030659490",
+    "project_id": "webphada",
+    "storage_bucket": "webphada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751030659490:android:69fac5ac5ee8622ffd2afb",
+        "android_client_info": {
+          "package_name": "com.example.webphada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751030659490-4i077eb3em63blbl3n894llnk0tqkru1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApu_jUZQ64FQM2Lvh-JVCyVZuCUHXz-Iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751030659490-4i077eb3em63blbl3n894llnk0tqkru1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
